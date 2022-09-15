@@ -37,17 +37,20 @@ YYYY
 
 <a name="sp1.1"></a>
 
+Ci è stato richiesto un software con il quale i professori e gli studenti potessero esaminare e interagire con vari aspetti di corsi e esami.
+
 ### 1.1 Document Scope
 
-
 <a name="sp1.2"></a>
+
+Fornire ai professori e agli studenti un software utile a destreggiarsi tra corsi, esami e voti.
 
 ### 1.2 Definitios and Acronym
 
 
 | Acronym				| Definition | 
 | ------------------------------------- | ----------- | 
-| XXXX                                  | XXXX |
+| E.C.D.S.                                  | Esami e Corsi per Docenti e Studenti |
 
 <a name="sp1.3"></a>
 
@@ -55,16 +58,25 @@ YYYY
 
 <a name="p2"></a>
 
+(Non saprei mi spiace)
+
 ## 2. System Description
+
 <a name="sp2.15"></a>
+
+Il Software si divide in vari classi tramite le quali i docenti possono verificare i propri corsi e aggiungere esami e risultati mentre gli studenti possono verificare i corsi a cui appartengono, possono isciversi ad esami e possono vederne i risutati.
 
 ### 2.1 Context and Motivation
 
 <a name="sp2.2"></a>
 
+Ci è stato chiesto di creare un software che facesse le cose da noi inserite.
+
 ### 2.2 Project Obectives 
 
 <a name="p3"></a>
+
+Fare le cose da noi inserite.
 
 ## 3. Requirements
 
