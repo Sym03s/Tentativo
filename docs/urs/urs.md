@@ -70,13 +70,13 @@ Il Software si divide in vari classi tramite le quali i docenti possono verifica
 
 <a name="sp2.2"></a>
 
-Ci è stato chiesto di creare un software per la gestione degli esami e la registrazione dei voti che possa essere utile per docenti e studenti. Tramite l’applicazione il docente potr`a visualizzare i corsi di cui `e docente, per ogni corso indire un esame, visualizzare la lista degli studenti iscritti all’esame, e per ogni studente iscritto registrare un votazione (0-30). Uno studente invece potr`a visualizzare: la lista dei corsi a cui `e iscritto, la lista dei corsi superati con relativa valutazione e per ogni esame la lista degli esami a cui si pu`o iscrivere. Inoltre si pu`o iscrivere a un esame di ogni corso a cui `e iscritto e che non ha ancora superato.
+Ci è stato chiesto di creare un software per la gestione degli esami e la registrazione dei voti che possa essere utile per docenti e studenti.
 
 ### 2.2 Project Obectives 
 
 <a name="p3"></a>
 
-Sviluppare un software per la gestione degli esami e la registrazione dei voti che possa essere utile per docenti e studenti. Tramite l’applicazione il docente potr`a visualizzare i corsi di cui `e docente, per ogni corso indire un esame, visualizzare la lista degli studenti iscritti all’esame, e per ogni studente iscritto registrare un votazione (0-30). Uno studente invece potr`a visualizzare: la lista dei corsi a cui `e iscritto, la lista dei corsi superati con relativa valutazione e per ogni esame la lista degli esami a cui si pu`o iscrivere. Inoltre si pu`o iscrivere a un esame di ogni corso a cui `e iscritto e che non ha ancora superato.
+Sviluppare un software per la gestione degli esami e la registrazione dei voti che possa essere utile per docenti e studenti. Tramite l’applicazione il docente potra' visualizzare i corsi di cui e' docente, per ogni corso indire un esame, visualizzare la lista degli studenti iscritti all’esame, e per ogni studente iscritto registrare un votazione (0-30). Uno studente invece potra' visualizzare: la lista dei corsi a cui e' iscritto, la lista dei corsi superati con relativa valutazione e per ogni esame la lista degli esami a cui si puo' iscrivere. Inoltre si puo' iscrivere a un esame di ogni corso a cui 'e iscritto e che non ha ancora superato.
 
 ## 3. Requirements
 
